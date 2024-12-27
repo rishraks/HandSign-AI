@@ -13,7 +13,7 @@ HandSign AI is a gesture recognition project designed to detect custom hand sign
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/HandSignAI.git  
+   git clone https://github.com/rishraks/HandSign-AI.git
    cd HandSignAI 
    ```
 2. Install dependencies:
